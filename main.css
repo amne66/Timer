@@ -1,0 +1,17 @@
+body{
+    background-color: #E3E9FF;
+}
+.all{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px auto;
+    gap: 16px;
+}
+#start-button{
+ padding: 10px;
+background-color: #AF7EEB;
+border-radius: 8px;  
+cursor: pointer; 
+}
